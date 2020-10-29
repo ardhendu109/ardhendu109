@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<div style="test-align:center"> 
+<div style="align:center"> 
   
-  <h4>I am Ardhendu Singha. I am a student of MSc Big Data Analytics at RKMVERI.</h1>
-  <center><img src = "397px-Tux_Mono.svg.png" width = "50" style="vertical-align:middle"></center>
+  <h4>I am Ardhendu Singha. I am a student of MSc Big Data Analytics at RKMVERI.</h4>
+  <img src = "397px-Tux_Mono.svg.png" width = "50" style="vertical-align:middle">
+  
+  > In Process...
   
 </div>
 
