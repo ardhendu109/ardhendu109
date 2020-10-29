@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="test-align:center", height = 50%, width = 50%> 
+<div style="test-align:center" height = "50%" width = "50%"> 
   
   <h4>I am Ardhendu Singha. I am a student of MSc Big Data Analytics at RKMVERI.</h1>
   <img src = "397px-Tux_Mono.svg.png")
