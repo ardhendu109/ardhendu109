@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<p style="test-align:center"> 
+<div style="test-align:center"> 
   
-  <h1>I am Ardhendu Singha. I am a student of MSc Big Data Analytics at RKMVERI.</h1>
+  <h4>I am Ardhendu Singha. I am a student of MSc Big Data Analytics at RKMVERI.</h1>
   
-</p>
+</div>
 
   ![TUX](397px-Tux_Mono.svg.png)
 
