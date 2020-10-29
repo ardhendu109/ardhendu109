@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### I am Ardhendu Singha. I am a student of MSc Big Data Analytics at RKMVERI.
+
 <!--
 **ardhochand/ardhochand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
