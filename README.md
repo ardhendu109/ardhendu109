@@ -3,10 +3,9 @@
 <div style="test-align:center"> 
   
   <h4>I am Ardhendu Singha. I am a student of MSc Big Data Analytics at RKMVERI.</h1>
+  <img src = "397px-Tux_Mono.svg.png")
   
 </div>
-
-  ![TUX](397px-Tux_Mono.svg.png)
 
 <!--
 **ardhochand/ardhochand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
