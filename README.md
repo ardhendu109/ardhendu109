@@ -3,7 +3,7 @@
 <div style="test-align:center"> 
   
   <h4>I am Ardhendu Singha. I am a student of MSc Big Data Analytics at RKMVERI.</h1>
-  <img src = "397px-Tux_Mono.svg.png" width = "50%">
+  <img src = "397px-Tux_Mono.svg.png" width = "50%"/>
   
 </div>
 
