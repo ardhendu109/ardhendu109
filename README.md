@@ -2,10 +2,8 @@
 
 <div style="align:center"> 
   
-  <h4>I'm Ardhendu Singha. I'm a student of MSc Big Data Analytics at <a href="http://rkmvu.ac.in/">RKMVERI</a>.</h4>
+  <h4>I'm Ardhendu Singha, currently working as an Associate Data Scientist</h4>
   <img src = "397px-Tux_Mono.svg.png" width = "50" style="vertical-align:middle">
-  
-  > In Process...
   
 </div>
 
