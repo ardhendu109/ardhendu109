@@ -1,12 +1,12 @@
-<div>
-  <img src = "397px-Tux_Mono.svg.png" width = "50" style="vertical-align:middle">
-  <h2>Hi there 👋</h2>
-</div>
-<div style="align:center"> 
-  
-  <h4>I'm Ardhendu Singha, currently working as an Associate Data Scientist</h4>
+### Hi there 👋. I'm Ardhendu.
 
-</div>
+<img src = "397px-Tux_Mono.svg.png" width = "50" style="vertical-align:middle">
+
+- 🔭 I’m currently working as an Associate Data Scientist
+- ⚽️ I have a good amount of interest in Linux
+- 🌱 I’m currently learning Scala
+- 👯 I’m looking to collaborate on Data Engineering projects
+- 💬 Ask me about Python
 
 <!--
 **ardhochand/ardhochand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
