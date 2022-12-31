@@ -1,10 +1,11 @@
-### Hi there 👋
-
+<div>
+  <img src = "397px-Tux_Mono.svg.png" width = "50" style="vertical-align:middle">
+  <h2>Hi there 👋</h2>
+</div>
 <div style="align:center"> 
   
   <h4>I'm Ardhendu Singha, currently working as an Associate Data Scientist</h4>
-  <img src = "397px-Tux_Mono.svg.png" width = "50" style="vertical-align:middle">
-  
+
 </div>
 
 <!--
