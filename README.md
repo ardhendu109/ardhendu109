@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as an Associate Data Scientist
 - ⚽️ I have a good amount of interest in Linux
-- 🌱 I’m currently learning Scala
+- 🌱 I’m looking forward to learning Scala
 - 👯 I’m looking to collaborate on Data Engineering projects
 - 💬 Ask me about Python
 
